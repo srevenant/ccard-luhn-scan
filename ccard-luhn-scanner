@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # created 2017-09-11 brandon gillespie
 
-import luhn
 import os
 import sys
 import re
